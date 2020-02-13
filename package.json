@@ -1,0 +1,22 @@
+{
+  "name": "phoenix-nodeapp",
+  "version": "1.0.0",
+  "description": "A simple HTTP server using Node JS  to test jenkins",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iProd5/jenkins"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "crudsinfotechng@gmail.com",
+  "license": "ISC",
+  "devDependencies": { "test": ">=0.6.0" }
+}
