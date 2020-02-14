@@ -2,7 +2,7 @@
   "name": "phoenix-nodeapp",
   "version": "1.0.0",
   "description": "A simple HTTP server using Node JS  to test jenkins",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "node test.js",
     "start": "node app.js"
